@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  BitcoinTicker
 //
-//  Created by Angela Yu on 23/01/2016.
+//  Template provided by Angela Yu.
 //  Copyright © 2016 London App Brewery. All rights reserved.
 //
 
